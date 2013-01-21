@@ -1,0 +1,4 @@
+jabber:
+  muc_channel: general@conference.test.tld
+  jabber_id:ada2@jabber.test.tld
+  password: $u9er$3cr37
