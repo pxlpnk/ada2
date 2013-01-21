@@ -68,8 +68,6 @@ class JabberClientMUC
       unless author == bot.nick
         bot.say text
       end
-
-      raise "I die"
     end
 
     self.bot.on_subject do |time,nick,subject|
